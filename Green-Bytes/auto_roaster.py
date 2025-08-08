@@ -12,7 +12,7 @@ print("Script starting up...")
 
 # നിങ്ങളുടെ API കീ ഇവിടെ പേസ്റ്റ് ചെയ്യുക
 try:
-    YOUR_API_KEY = "AIzaSyAbTObTCi3oFd9sdqZxaeLU6ZxdC9dATvs"
+    YOUR_API_KEY = "YOUR_API_KEY"
 
     if "REPLACE_THIS" in YOUR_API_KEY:
         print("\n--- STOP! ---")
@@ -105,3 +105,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
