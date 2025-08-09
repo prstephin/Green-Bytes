@@ -92,7 +92,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-https://github.com/prstephin/Green-Bytes/blob/main/demo3.mp4
+https://youtu.be/7f-Vt7RzziI?si=uChPXJ7vGLcHBbV4
 *The video showcases GreenBytes Roast-O-Matic in action. It captures the user’s screen live, extracts visible text like browser tabs or app content, then uses the Gemini API to analyze the context and generate a sharp, humorous roast in Malayalam. The roast is converted to speech and played aloud in real-time, highlighting how the app calls out unproductive behavior instantly and entertainingly. Watch as the user gets roasted for procrastinating and wasting time, demonstrating the app’s potential to keep you accountable in a fun way.
 
 *
